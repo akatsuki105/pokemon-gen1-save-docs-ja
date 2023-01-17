@@ -56,6 +56,13 @@
       <td>トレーナーID</td>
     </tr>
     <tr>
+      <td>0x284C</td>
+      <td>1</td>
+      <td>0x2842</td>
+      <td>1</td>
+      <td>現在のボックス番号</td>
+    </tr>
+    <tr>
       <td>0x2850</td>
       <td>2</td>
       <td>0x2846</td>
@@ -75,6 +82,13 @@
       <td>0x2ED5</td>
       <td>344</td>
       <td>手持ち</td>
+    </tr>
+    <tr>
+      <td>0x30C0</td>
+      <td>1122</td>
+      <td>0x302D</td>
+      <td>1382</td>
+      <td>現在のボックスのボックスデータ</td>
     </tr>
     <tr>
       <td>0x3523</td>
